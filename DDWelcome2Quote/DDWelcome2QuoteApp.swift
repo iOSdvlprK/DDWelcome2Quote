@@ -11,7 +11,7 @@ import SwiftUI
 struct DDWelcome2QuoteApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            WelcomeView()
         }
     }
 }
